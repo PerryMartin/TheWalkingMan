@@ -80,6 +80,7 @@ namespace TheWalkingMan
                 this.Refresh();
                 Thread.Sleep(100);
 
+
             } while (loopCounter < 10);
         }
     }
